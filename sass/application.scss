@@ -1,8 +1,3 @@
-// IMPORTS:
-//  the imports are serving as a manifest of file for now so you can
-//  include mc-chrome in your manifest for Sprockets to get all of the base
-//  css needed for the MC chrome. Highly custom mixins should not be imported here
-//  so apps can choose when they want to use them outside of the standard chrome.
 
 @import 'compass';
 
