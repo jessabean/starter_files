@@ -47,3 +47,30 @@
   display: inline;
   zoom: 1;
 }
+
+// Show/hide classes
+%is-visible {
+  display: block;
+  visibility: visible;
+}
+
+%is-hidden {
+  display: none;
+  visibility: hidden;
+}
+
+// Misc
+%first {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+%last {
+  margin-right: 0;
+  padding-right: 0;
+}
+
+%top {
+  margin-top: 0;
+  padding-top: 0;
+}
