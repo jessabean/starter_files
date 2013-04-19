@@ -1,14 +1,12 @@
-
-@import 'compass';
-
 // Variables and Mixins
 @import "globals";
 @import "helpers";
 
-@import "mixins/border";
+@import "mixins/font_size";
 @import "mixins/border_radius";
-@import "mixins/clearfix";
 @import "mixins/gradients";
+@import "mixins/rotate";
+@import "mixins/responsive";
 
 
 // Base Styles
