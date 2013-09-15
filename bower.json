@@ -1,0 +1,11 @@
+{
+    "name":  "starter_files",
+    "version": "1.0",
+    "dependencies": {
+        "jquery": "latest",
+        "modernizr": "latest",
+        "normalize-css": "latest",
+        "bourbon": "latest",
+        "neat": "latest"
+    }
+}

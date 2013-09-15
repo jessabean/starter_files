@@ -23,6 +23,7 @@ Thumbs.db
 .hg
 .svn
 .CVS
+bower_components
 
 # Sass cache files
 .sass-cache
