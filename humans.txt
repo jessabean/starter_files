@@ -15,9 +15,11 @@
   Standards: HTML5, CSS3, JavaScript
 
   Components:
+    Normalize: http://necolas.github.io/normalize.css/
     Modernizr : http://www.modernizr.com/
     jQuery : http://jquery.com/
     HTML5 Boilerplate : http://html5boilerplate.com/
+    Bourbon: http://bourbon.io/
 
   Software/Tools:
     Sublime Text : http://www.sublimetext.com/
